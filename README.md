@@ -1,9 +1,4 @@
 # WiFiProbe
-## April 18th，2018 Added
-
-If you meet the lib-missing problem, please install libpcap first on your computer, and then re-make the ipk.
-
-[Get libpcap](http://www.tcpdump.org/)
 
 ## Introdution
 Openwrt WiFi Probe, with http post to send data to server.
